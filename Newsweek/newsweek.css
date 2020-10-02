@@ -1,0 +1,89 @@
+body {
+    overflow: scroll;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+div {
+   overflow: hidden;
+   margin: 0 auto;
+}
+
+
+#heading {
+    height: 100px;
+    color: white;
+    background-color: red;
+}
+
+#heading2 {
+    height: 20px;
+}
+
+#heading3 {
+    height: 20px;
+}
+
+
+#subscription1 {
+   color: black;
+    background-color: yellow;
+    border-radius: 10px;
+    text-align: center;  
+}
+
+#section2 {
+    text-align: center;
+}
+
+#section3 {
+    text-align: center;
+}
+
+#column1 {
+    width: 10px;
+    overflow: hidden;
+}
+
+
+.navlist2 {
+    padding-left: 15px;
+    padding-right: 20px;
+}
+ 
+.center {
+    font-size: 80px;
+    font-weight: 1000;
+    text-align: center;
+}
+
+.left {
+    padding-top: 60px;
+    font-size: large;
+    text-align: right;
+}
+
+.weather {
+    padding-top: 20px;
+    padding-left: 10px;
+    font-size: small;
+}
+
+.date {
+    padding-top: 10px;
+    padding-left: 10px;
+    font-size: small;
+}
+
+.navlist {
+    font-size: large;
+    padding-right: 15px; 
+}
+
+.navlists {
+    font-size: large;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
